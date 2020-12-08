@@ -1,5 +1,5 @@
-# merging-dataframes-with-python
-this repository contains how to merge dataframes using python pandas
+# Merging-dataframes-with-python
+This repository contains how to merge dataframes using python pandas
 
 ## Datasets
 This project utilise five different datasets in 'csv' format from **telstra** - a mobile telecommunication company.
